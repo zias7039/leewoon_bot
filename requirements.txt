@@ -1,0 +1,6 @@
+python-telegram-bot==21.6
+APScheduler
+pytz
+python-dotenv
+gspread
+google-auth
